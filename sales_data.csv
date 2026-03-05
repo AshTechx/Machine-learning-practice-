@@ -1,0 +1,11 @@
+OrderID,CustomerName,Product,Quantity,Price,OrderDate
+1001,Alice,Laptop,1,750,2024-01-15
+1002,Bob,Smartphone,3,600,2024-01-16
+1003,Charlie,Headphones,2,120,2024-01-17
+1004,Diana,Laptop,2,800,2024-01-18
+1005,Ethan,Smartwatch,1,200,2024-01-19
+1006,Fiona,Smartphone,4,550,2024-01-20
+1007,George,Tablet,2,400,2024-01-21
+1008,Hannah,Laptop,1,900,2024-01-22
+1009,Ian,Smartphone,2,650,2024-01-23
+1010,Jane,Headphones,5,100,2024-01-24
